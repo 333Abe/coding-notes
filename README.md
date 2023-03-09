@@ -1,2 +1,2 @@
-# coding-notes
-Coding notes
+# Coding Notes
+
